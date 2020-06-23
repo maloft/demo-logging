@@ -1,0 +1,76 @@
+11:18:50.363 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:18:50.368 [main] INFO  dev.console.App -
+		Implementation Logback
+11:20:15.498 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:20:15.523 [main] INFO  dev.console.App -
+		Implementation Logback
+11:26:08.078 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:26:08.083 [main] INFO  dev.console.App -
+Implementation Logback
+11:30:46.612 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:30:46.616 [main] INFO  dev.console.App -
+Implementation Logback
+11:32:04.705 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:32:04.705 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:32:04.710 [main] INFO  dev.console.App -
+Implementation Logback
+11:32:04.710 [main] INFO  dev.console.App -
+Implementation Logback
+11:36:12.851 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:36:12.851 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:36:12.855 [main] INFO  dev.console.App -
+Implementation Logback
+11:36:12.855 [main] INFO  dev.console.App -
+Implementation Logback
+11:37:56.463 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:37:56.463 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:37:56.469 [main] INFO  dev.console.App -
+		Implementation Logback
+11:37:56.469 [main] INFO  dev.console.App -
+		Implementation Logback
+11:42:03.706 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:42:03.706 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:42:03.711 [main] INFO  dev.console.App -
+		Implementation Logback
+11:42:03.711 [main] INFO  dev.console.App -
+		Implementation Logback
+11:43:05.703 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:43:05.703 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:43:05.709 [main] INFO  dev.console.App -
+		Implementation Logback
+11:43:05.709 [main] INFO  dev.console.App -
+		Implementation Logback
+11:44:41.729 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:44:41.729 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:44:41.734 [main] INFO  dev.console.App -
+		Implementation Logback
+11:44:41.734 [main] INFO  dev.console.App -
+		Implementation Logback
+11:45:20.391 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:45:20.391 [main] INFO  dev.console.App -
+		Bonjour Slf4J !
+11:45:20.397 [main] INFO  dev.console.App -
+		Implementation Logback
+11:45:20.397 [main] INFO  dev.console.App -
+		Implementation Logback
+11:45:20.398 [main] DEBUG dev.service.AppService -
+		Traitement 1 : param = diginamic
+11:45:20.398 [main] DEBUG dev.service.AppService -
+		Traitement 1 : param = diginamic
